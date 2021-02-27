@@ -4,5 +4,6 @@
 "site": "",//Siteurl
 "apiendpoint": "",//api yazin
 "slogan": "",
-"sdesc": ""
+"sdesc": "",
+"dcurl": ""
 }
