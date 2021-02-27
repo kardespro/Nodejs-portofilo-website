@@ -3,7 +3,7 @@ const app = kardespro();
 const conf = require("./siteconfig.json");
 app.set('view engine', 'ejs');
 app.get("/", (req,res) => {
-res.render("home");
+res.render("home",{conf});
 });
 app.listen(6060);
 console.log("Hello");
