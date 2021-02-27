@@ -2,5 +2,7 @@
 "sitesahipi": "",//Site Sahipi Ismi
 "ppurl": "https://cdn.kardespro.cf/assets/config/siteconfig/uploads/av.png",//Avatar URL
 "site": "",//Siteurl
-"apiendpoint": ""//api yazin
+"apiendpoint": "",//api yazin
+"slogan": "",
+"sdesc": ""
 }
